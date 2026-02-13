@@ -38,3 +38,6 @@ next-env.d.ts
 # uploads
 /uploads
 !/uploads/.gitkeep
+
+# ai (specs, prompts - not part of app code)
+/ai
